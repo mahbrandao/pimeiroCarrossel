@@ -1,0 +1,22 @@
+# dependências
+node_modules/
+
+# build do Next
+.next/
+out/
+build/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# variáveis de ambiente
+.env*
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# vercel
+.vercel
